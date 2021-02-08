@@ -1,0 +1,14 @@
+#container{
+    margin: 20px;
+    width: 100px
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+body {
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
