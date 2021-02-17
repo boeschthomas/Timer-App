@@ -1,12 +1,8 @@
-#container{
-    margin: 20px;
-    width: 100px
-    padding: 10px;
-    background-color: aquamarine;
-}
-
-body {
+#container {
+    margin: 0px, auto;
     width: 500px;
+    background-color: aquamarine;
+    padding-left: 500px;
 }
 
 h1 {
