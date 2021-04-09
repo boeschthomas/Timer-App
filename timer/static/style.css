@@ -1,8 +1,7 @@
 #container {
-    margin: 0px, auto;
-    width: 500px;
+    margin: auto;
+    width: 50%;
     background-color: aquamarine;
-    padding-left: 500px;
 }
 
 h1 {
